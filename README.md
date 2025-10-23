@@ -2,7 +2,7 @@
 
 **Client:** [GoProtect Insurance Company](https://www.goprotect.ru/)  
 **Role:** Data Scientist  
-**Duration**: 2 months
+**Duration**: 2 months ((*May - June, 2024*)
 
 ## Project Overview
 
