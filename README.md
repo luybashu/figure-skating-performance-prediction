@@ -1,7 +1,7 @@
 # Prediction of Figure Skating Element Execution
 
 **Client:** [GoProtect Insurance Company](https://www.goprotect.ru/)  
-**Role:** Data Scientist 
+**Role:** Data Scientist  
 **Duration**: 2 months
 
 ## Project Overview
